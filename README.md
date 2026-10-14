@@ -4,9 +4,8 @@ My personal portfolio website showcasing my projects, technical skills, and prof
 
 ## Live Demo
 
-[View My Portfolio](https://webportfollio-ght82ksyc-thesouravpandey108-8464s-projects.vercel.app/)
+[View My Portfolio](https://webportfollio.vercel.app/)
 
 ## Author
 
 **Sourav Pandey**
-
